@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Roman, CS student at Vistula University in Warsaw, interested in AI/ML.
+
+
 <!--
 **wpygun/wpygun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
