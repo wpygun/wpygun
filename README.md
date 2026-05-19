@@ -5,6 +5,7 @@ I'm Roman, CS student at Vistula University in Warsaw, interested in AI/ML.
 ## Projects
 
 - **[cloud-dashboard-project](https://github.com/wpygun/cloud-dashboard-project)** — A web dashboard visualizing cloud infrastructure stats and live currency exchange rates. Built with Flask, SQLite, and Plotly. Deployed on Render.
+- **[expense-tracker](https://github.com/wpygun/expense-tracker)** — A small Telegram bot for keeping track of personal income and expenses, made using Python, SQLite, Asyncio and Aiogram.
 - **[ai-text-detector](https://github.com/wpygun/ai-text-detector)** *(in progress)* — My thesis project: a Chrome extension for detecting AI-generated text on social media, using RoBERTa and Flask.
 
 ## Skills
